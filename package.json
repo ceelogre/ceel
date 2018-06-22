@@ -1,0 +1,24 @@
+{
+  "name": "ceel",
+  "version": "1.0.0",
+  "description": "Sam personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ceel"
+  },
+  "keywords": [
+    "web",
+    "apps",
+    "web",
+    "design"
+  ],
+  "author": "Ceelogre",
+  "license": "ISC",
+  "dependencies": {
+    "html5-boilerplate": "^6.1.0"
+  }
+}
